@@ -5,7 +5,14 @@
 
 # Declare variáveis do tipo string
 
+Resumo = 'teste de funcionalidade'
+
 # Declare variáveis de cada tipo numérico
 
+numero_inteiro = 6
+Salario = 1212.00
 
 # Declare uma variável do tipo booleano
+
+verdadeiro = True
+falso = False
